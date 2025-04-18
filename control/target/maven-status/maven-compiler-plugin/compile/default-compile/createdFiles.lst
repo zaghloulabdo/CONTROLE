@@ -1,0 +1,11 @@
+com\example\donationservice\repository\CampagneRepository.class
+com\example\donationservice\model\Campagne.class
+com\example\donationservice\controller\DonationController.class
+com\example\donationservice\DonationServiceApplication.class
+com\example\donationservice\service\CampagneService.class
+com\example\donationservice\projection\CampagneResume.class
+com\example\donationservice\service\DonationService.class
+com\example\donationservice\model\Donation.class
+com\example\donationservice\repository\DonationRepository.class
+com\example\donationservice\dto\DonDTO.class
+com\example\donationservice\exception\GlobalExceptionHandler.class
